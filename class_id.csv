@@ -1,0 +1,85 @@
+item_category_id,translated_category_name,class_name,class_id
+0,"PC-Headsets/Headphones,0",headset,0
+1,Accessories-PS2.1,accessories,1
+2,Accessories-PS3.2,accessories,1
+3,Accessories-PS4.3,accessories,1
+4,"Accessories-PSP,4",accessories,1
+5,"Accessories-PSVita,5",accessories,1
+6,Accessories-XBOX360.6,accessories,1
+7,"Accessories-XBOXONE,7",accessories,1
+8,"Tickets(Digit),8",tickets,2
+9,"Deliveryofgoods,9",delivery,3
+10,GameConsoles-PS2.10,gameconsoles,4
+11,GameConsoles-PS3.11,gameconsoles,4
+12,GameConsoles-PS4.12,gameconsoles,4
+13,"GameConsoles-PSP,13",gameconsoles,4
+14,"Gameconsoles-PSVita,14",gameconsoles,4
+15,Gameconsoles-XBOX360.15,gameconsoles,4
+16,"Gameconsoles-XBOXONE,16",gameconsoles,4
+17,"Gameconsoles-Other,17",gameconsoles,4
+18,Games-PS2.18,games-console,5
+19,Games-PS3.19,games-console,5
+20,Games-PS4.20,games-console,5
+21,Games-PSP21,games-console,5
+22,"Games-PSVita,22",games-console,5
+23,Games-XBOX360.23,games-console,5
+24,"Games-XBOXONE,24",games-console,5
+25,"Games-Accessoriesforgames,25",gameaccessories,6
+26,"AndroidGames-Number,26",games-phone,7
+27,"MACGames-Digit,27",games-computer,8
+28,"PCGames-ExtraEditions,28",games-computer,8
+29,"PCGames-Collector'sEditions,29",games-computer,8
+30,"PCGames-StandardEditions,30",games-computer,8
+31,"PCGames-Digit,31",games-computer,8
+32,"Payment cards (Cinema, Music, Games),32",card,9
+33,"PaymentCards-Live!,33",card,9
+34,"PaymentCards-Live!(Digit),34",card,9
+35,"PaymentCards-PSN,35",card,9
+36,"PaymentCards-Windows(Digit),36",card,9
+37,"Cinema-Blu-Ray,37",movie,10
+38,"Cinema-Blu-Ray3D,38",movie,10
+39,"Cinema-Blu-Ray4K,39",movie,10
+40,"Cinema-DVD,40",movie,10
+41,"Cinema-Collectible,41",movie,10
+42,"Books - Artbooks, Encyclopedias,42",book,11
+43,"Books-Audiobooks,43",book,11
+44,"Books-Audiobooks(Digit),44",book,11
+45,"Books-Audiobooks1C,45",book,11
+46,"Books-BusinessLiterature,46",book,11
+47,"Books - Comics, Manga,47",book,11
+48,"Books-ComputerLiterature,48",book,11
+49,"Books-Methodicalmaterials1C,49",book,11
+50,"Books-Postcards,50",book,11
+51,"Books-Informativeliterature,51",book,11
+52,"Books-Guides,52",book,11
+53,"Books-Fiction,53",book,11
+54,Books-Number54,book,11
+55,"Music-LocalProductionCD,55",music,12
+56,"Music-FirmwareCD,56",music,12
+57,Music-MP3.57,music,12
+58,"Music-Vinyl,58",music,12
+59,"Music-MusicVideo,59",music,12
+60,"Music-GiftEditions,60",music,12
+61,"Gifts-Attributes,61",gift,13
+62,"Gifts - Gadgets, Robots, Sports,62",gift,13
+63,"Gifts-StuffedToys,63",gift,13
+64,"Gifts-BoardGames,64",gift,13
+65,"Gifts-Boardgames(compact),65",gift,13
+66,"Gifts - Postcards, stickers,66",gift,13
+67,"Gifts-Development,67",gift,13
+68,"Gifts - Certificates, services,68",gift,13
+69,"Gifts-Souvenirs,69",gift,13
+70,"Gifts-Souvenirs(inbulk),70",gift,13
+71,"Gifts - Bags, Albums, Mousepads,71",gift,13
+72,"Gifts-Figures,72",gift,13
+73,Programs-1C:Enterprise8.73,program,14
+74,"Programs-MAC(Digit),74",program,14
+75,"Programs-Forhomeandoffice,75",program,14
+76,"Programs-Forhomeandoffice(Digit),76",program,14
+77,"Programs-Educational,77",program,14
+78,"Programs-Educational(Digital),78",program,14
+79,"Utilities,79",service,15
+80,"Service-Tickets,80",service,15
+81,"Netcarriers(spire),81",cleanmedia,16
+82,"Cleanmedia(piece),82",cleanmedia,16
+83,"Batteries,83",batteries,17
